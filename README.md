@@ -1,2 +1,3 @@
 # Ngdashboard
-[ ] Installing Tailwind
+[*] Installing Tailwind
+[ ] Installing Flowbite (Bugs)
